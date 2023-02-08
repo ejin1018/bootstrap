@@ -10819,4 +10819,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.test {
+  font: normal, 300, 50px, "pretendard";
 }/*# sourceMappingURL=main.css.map */
