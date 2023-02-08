@@ -7,9 +7,9 @@ $secondary: #4b5e57;
 $dark: #2F4F50;
 
 $tkth1: normal 300 50px 'pretendard',sans-serif;
+$letsp: -0.8px;
+
 .test{
   font: $tkth1;
-}
-html,body{
-  letter-spacing: -0.8px;
+  letter-spacing: $letsp;
 }
